@@ -171,7 +171,13 @@ nav ul li a.current {
   text-align: left;
   letter-spacing: 1px;
   display: block;
-  list-style-type: disc;
+
+}
+
+.bacon-likes li{
+  padding: 5px 0;
+  list-style-type:disc;
+  margin: 10px;
 
 }
 
